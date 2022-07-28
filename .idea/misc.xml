@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_home.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_how_to_play.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_play_game.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_setting.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_spiner.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_thank_you.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_view_more.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/activity_web.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/ad_loder.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/aelert_box.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/layout/dialog_winner_lost.xml" value="0.35104166666666664" />
+        <entry key="..\:/Application/JulyFNFUGHPack2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.209" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

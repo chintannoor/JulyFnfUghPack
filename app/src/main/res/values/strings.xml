@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JulyFNFUGH Pack</string>
+
+    <!-- Back Dialog Box -->
+    <string name="quickMessage">Are you sure you want to Quick?</string>
+    <string name="dialog_button_text_no">No</string>
+    <string name="dialog_button_text_yes">Yes</string>
+    <string name="close_btn_thank_you">Thank You</string>
+    <string name="thank_you_for_using_app">For Use This App</string>
+
+    <style name="MyButton">
+        <item name="android:backgroundTint">#FFD43F</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">20sp</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+</resources>
